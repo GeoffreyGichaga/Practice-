@@ -1,0 +1,8 @@
+header nav ul {
+    display: flex ;
+    gap: 50px;
+    list-style: none;
+    width: 50%;
+    margin: auto;
+    background-color: red;
+}
