@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 footer{
     border: solid, rgb(19, 5, 5) 2px;
     border-radius: 5px;
@@ -8,4 +9,14 @@ footer{
     list-style: none;
     text-decoration: none;
     color: brown;
+}
+=======
+header nav ul {
+    display: flex ;
+    gap: 50px;
+    list-style: none;
+    width: 50%;
+    margin: auto;
+    background-color: red;
+>>>>>>> index1
 }
