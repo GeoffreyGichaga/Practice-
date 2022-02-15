@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .practice{
     color: rgb(96, 96, 212);
     text-align: center;
@@ -8,20 +8,20 @@
 h3{
     color: black;
     font-weight: 700;
-=======
-<<<<<<< HEAD
+}
 footer{
     border: solid, rgb(19, 5, 5) 2px;
     border-radius: 5px;
     display: flex;
     justify-content: space-around;
 }
+
 .firstfooter ul li{
     list-style: none;
     text-decoration: none;
     color: brown;
 }
-=======
+
 header nav ul {
     display: flex ;
     gap: 50px;
@@ -29,9 +29,7 @@ header nav ul {
     width: 50%;
     margin: auto;
     background-color: red;
-<<<<<<< HEAD
->>>>>>> index1
-=======
+
 }
 h1 {
     text-align: center;
@@ -46,6 +44,4 @@ h2 {
     background-color: chartreuse;
     width: 80%;
     margin: auto;
->>>>>>> index2
->>>>>>> bbfcd9d1d112c09a720a619218d1fb2e746dbad0
 }
