@@ -37,15 +37,25 @@ footer{
     color: brown;
 }
 
+
 header nav ul {
+    /* text-align: center; */
     display: flex ;
     gap: 1.5em;
+    justify-content: center;
+    /* margin-right: 15%; */
     list-style: none;
-    width: 60%;
-    margin: auto;
+    width: 100vw;
+    padding: 1%;
+    /* margin: auto auto; */
     background-color: rgb(223, 204, 204);
-
 }
+
+li{
+    text-align: center;
+    list-style-type: none;
+}
+
 h1 {
     text-align: center;
     background-color: aqua;
