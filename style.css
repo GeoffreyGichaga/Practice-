@@ -18,5 +18,22 @@ header nav ul {
     width: 50%;
     margin: auto;
     background-color: red;
+<<<<<<< HEAD
 >>>>>>> index1
+=======
+}
+h1 {
+    text-align: center;
+    background-color: aqua;
+}
+p {
+    text-align: center;
+    color: blue;
+}
+h2 {
+    text-align: center;
+    background-color: chartreuse;
+    width: 80%;
+    margin: auto;
+>>>>>>> index2
 }
