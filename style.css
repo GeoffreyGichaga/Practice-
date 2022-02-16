@@ -1,61 +1,27 @@
-
-.practice{
-    /* color: rgb(233, 233, 233); */
-    display: flex;
-    /* text-align: center; */
-    /* font-size: 3vw; */
-     width: 90%;
-     background: #ddd;
-     padding: 5%;
-     gap :1.5em;
-}
-
-.practice p{
-    text-align: left;
-    background-color: rgb(223, 204, 204);
-    color: #000;
-    font-weight: 500;
-    padding: 5%;
-}
-
-h3{
-    color: black;
-    font-weight: 700;
-    background-color: blueviolet;
-    padding: 5%;
-}
+<<<<<<< HEAD
 footer{
     border: solid, rgb(19, 5, 5) 2px;
     border-radius: 5px;
     display: flex;
     justify-content: space-around;
 }
-
 .firstfooter ul li{
     list-style: none;
     text-decoration: none;
     color: brown;
 }
-
-
+=======
 header nav ul {
-    /* text-align: center; */
     display: flex ;
-    gap: 1.5em;
-    justify-content: center;
-    /* margin-right: 15%; */
+    gap: 50px;
     list-style: none;
-    width: 100vw;
-    padding: 1%;
-    /* margin: auto auto; */
-    background-color: rgb(223, 204, 204);
+    width: 50%;
+    margin: auto;
+    background-color: red;
+<<<<<<< HEAD
+>>>>>>> index1
+=======
 }
-
-li{
-    text-align: center;
-    list-style-type: none;
-}
-
 h1 {
     text-align: center;
     background-color: aqua;
@@ -69,4 +35,5 @@ h2 {
     background-color: chartreuse;
     width: 80%;
     margin: auto;
+>>>>>>> index2
 }
